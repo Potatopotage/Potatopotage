@@ -1,25 +1,22 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=5387ee&height=180&text=Welcome!&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=afcdfd&height=180&text=Hello%20World!&animation=&fontColor=ffffff&fontSize=70" />
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥔Hello! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Learning...🔥 </div> 
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  🖐️Hello! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🔥Studying🔥 </div> 
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥Learning </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️Working on... </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
           </div>
     </div>
-<div align="center">
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align="center"> 
-        <a href=mailto:f.potato.potage@gmail.com> 
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:f.potato.potage@gmail.com">
-        </a>
-        <br>
-        <img alt="Static Badge" src="https://img.shields.io/badge/f.potato.potage%40gmail.com-blue">
-    </div>  <br>
-    <div align="center">  </div> 
-</div>
+    <div style="text-align: left;"> <a href=mailto:f.potato.potage@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:f.potato.potage@gmail.com"> </a>
+         <a href=https://potatopotage.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://potatopotage.tistory.com/"> </a>
+          </div>  <br>      
+    <div style="text-align: left;">  </div> 
+    </div>
+    
