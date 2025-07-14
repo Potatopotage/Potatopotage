@@ -1,10 +1,5 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=afcdfd&height=180&text=Hello%20World!&animation=&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  🖐️Hello! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🔥Studying🔥 </div> 
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️Working on... </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
